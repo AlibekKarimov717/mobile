@@ -23,6 +23,7 @@ a{
 }
 .big{
     width: 900px;
+    padding: 20px;
     background-color: rgb(41, 38, 38);
 }
 .body{
