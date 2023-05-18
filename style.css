@@ -24,6 +24,8 @@ a{
 .big{
     width: 900px;
     background-color: rgb(41, 38, 38);
+}
+.body{
     padding: 20px;
 }
 .link{
